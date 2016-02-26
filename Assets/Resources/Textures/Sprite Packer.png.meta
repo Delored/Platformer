@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: eae7fa79fdd0042c3a2779a99cdbfbf3
+timeCreated: 1456225557
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dirtCliffAlt_right
+    21300002: dirtHalf_right
+    21300004: dirtCorner_left
+    21300006: dirtHalf_left
+    21300008: dirtCliff_right
+    21300010: dirt
+    21300012: dirtCliffAlt_left
+    21300014: dirtCorner_right
+    21300016: dirtMid
+    21300018: dirtRight
+    21300020: dirtHalf_mid
+    21300022: dirtCliff_left
+    21300024: dirtHill_left
+    21300026: dirtHill_right
+    21300028: dirtCenter
+    21300030: dirtLeft
+    21300032: dirtHalf
+    21300034: dirtCenter_rounded
+    21300036: Sprite Packer_0
+    21300038: Sprite Packer_1
+    21300040: Sprite Packer_2
+    21300042: Sprite Packer_3
+    21300044: Sprite Packer_4
+    21300046: Sprite Packer_5
+    21300048: Sprite Packer_6
+    21300050: Sprite Packer_7
+    21300052: Sprite Packer_8
+    21300054: Sprite Packer_9
+    21300056: Sprite Packer_10
+    21300058: Sprite Packer_11
+    21300060: Sprite Packer_12
+    21300062: Sprite Packer_13
+    21300064: Sprite Packer_14
+    21300066: Sprite Packer_15
+    21300068: Sprite Packer_16
+    21300070: Sprite Packer_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite Packer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: Sprite Packer_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 61}
+        - {x: 60, y: 64}
+    - name: Sprite Packer_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: Sprite Packer_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -43}
+        - {x: -60, y: -61}
+        - {x: -19, y: -60}
+        - {x: 14, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: Sprite Packer_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 312
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 37}
+        - {x: -64, y: -37}
+        - {x: 64, y: -37}
+        - {x: 64, y: 35}
+        - {x: 63, y: 37}
+    - name: Sprite Packer_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 37}
+        - {x: -64, y: -37}
+        - {x: 59, y: -37}
+        - {x: 64, y: -34}
+        - {x: 64, y: 33}
+        - {x: 60, y: 37}
+    - name: Sprite Packer_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: -29, y: -64}
+        - {x: -6, y: -59}
+        - {x: 40, y: -43}
+        - {x: 64, y: -18}
+    - name: Sprite Packer_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: Sprite Packer_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 183
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 37}
+        - {x: -64, y: -37}
+        - {x: 64, y: -37}
+        - {x: 64, y: 37}
+    - name: Sprite Packer_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 64}
+        - {x: -64, y: 60}
+        - {x: -64, y: -60}
+        - {x: -61, y: -63}
+        - {x: -59, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: Sprite Packer_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 61, y: -64}
+        - {x: 64, y: -61}
+        - {x: 64, y: 60}
+        - {x: 60, y: 64}
+    - name: Sprite Packer_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: -57, y: -64}
+        - {x: 64, y: 17}
+        - {x: 64, y: 60}
+        - {x: 59, y: 64}
+    - name: Sprite Packer_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 54
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 37}
+        - {x: -64, y: 36}
+        - {x: -64, y: -36}
+        - {x: -61, y: -37}
+        - {x: 64, y: -37}
+        - {x: 64, y: 37}
+    - name: Sprite Packer_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 64}
+        - {x: -64, y: 60}
+        - {x: -64, y: 15}
+        - {x: 56, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: Sprite Packer_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 60, y: -64}
+        - {x: 64, y: -60}
+        - {x: 64, y: 58}
+        - {x: 59, y: 64}
+    - name: Sprite Packer_15
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -61}
+        - {x: -61, y: 64}
+    - name: Sprite Packer_16
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 64}
+        - {x: -64, y: -61}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: Sprite Packer_17
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
